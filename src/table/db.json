@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Odol Gigi",
+      "Beli": 12000,
+      "Jual": 15000,
+      "stock": 50,
+      "id": 1
+    },
+    {
+      "name": "Boneka",
+      "Beli": 10000,
+      "Jual": 20000,
+      "stock": 30,
+      "id": 2
+    },
+    {
+      "name": "Jam Tangan",
+      "Beli": 100000,
+      "Jual": 250000,
+      "stock": 25,
+      "id": 3
+    },
+    {
+      "name": "Sepatu",
+      "Beli": 50000,
+      "Jual": 75000,
+      "stock": 45,
+      "id": 4
+    },
+    {
+      "name": "baju",
+      "Beli": 30000,
+      "Jual": 50000,
+      "stock": 80,
+      "id": 5
+    }
+  ]
+}
